@@ -1,0 +1,1 @@
+Projekt wypożyczalni wykonany przez Dawida Rudnika (13001) oraz Norberta Strucińskiego (13004). Celem projektu jest zbudowanie kompleksowej aplikacji do zarządzania wypożyczeniami. Umożliwia ona nie tylko wypożyczanie przedmiotów klientom, ale również zarządzanie wypożyczeniami i ofertami przez sprzedawców oraz dostęp do funkcji administracyjnych.
